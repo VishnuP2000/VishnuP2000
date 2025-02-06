@@ -1,26 +1,35 @@
-# 👋 Hi, I'm Vishnu Jithu  
+# Hi there, I'm Vishnu Jithu! 👋  
 
-### 🚀 Web Developer | Backend Enthusiast  
-
-I'm a passionate web developer focusing on building scalable and efficient backend systems. I love solving problems with **Node.js, Express.js, MongoDB, and TypeScript** while continuously improving my **DSA skills**. Exploring **AWS and Git** to enhance my development workflow.  
+Hello, welcome to my GitHub profile! I'm a passionate web developer, constantly improving my problem-solving skills and exploring new technologies. Every day, I strive to enhance my abilities and grow in my craft.  
 
 ---
 
-## 🔧 Tech Stack  
+## 💻 Tech Stack  
 
-- **Languages:** TypeScript, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Cloud & DevOps:** AWS, Git  
-- **Problem-Solving:** Data Structures & Algorithms  
+Here’s a quick overview of the technologies I work with:  
 
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-⭐️ Feel free to explore my repositories and contribute!  
+## 🌍 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ **Crafted with ❤️ by Vishnu Jithu** ✨
