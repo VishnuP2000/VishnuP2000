@@ -26,14 +26,14 @@ Here’s a quick overview of the technologies I work with:
 ## 🌍 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-profile" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-✨ **Crafted with ❤️ by Vishnu Jithu** ✨
+✨ **Crafted with ❤️ by {Vishnu}** ✨
