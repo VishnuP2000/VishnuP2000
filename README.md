@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishnu Jithu  
 
-<!--
-**VishnuP2000/VishnuP2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Web Developer | Backend Enthusiast  
 
-Here are some ideas to get you started:
+I'm a passionate web developer focusing on building scalable and efficient backend systems. I love solving problems with **Node.js, Express.js, MongoDB, and TypeScript** while continuously improving my **DSA skills**. Exploring **AWS and Git** to enhance my development workflow.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack  
+
+- **Languages:** TypeScript, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Cloud & DevOps:** AWS, Git  
+- **Problem-Solving:** Data Structures & Algorithms  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)  
+
+---
+
+⭐️ Feel free to explore my repositories and contribute!  
